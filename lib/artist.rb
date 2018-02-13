@@ -39,5 +39,5 @@ class Artist
     @@all << created_artist
     created_artist
   end
-
+binding.pry
 end
